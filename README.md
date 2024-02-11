@@ -2,7 +2,8 @@
 
 ## Technologies used
 - Programming language: Python 3.9
-- Frameworks: Streamlit
+- Frameworks: LangChain , Streamlit
+- Vector DB : FAISS
 - Editors/IDE: PyCharm
 
 ## Install required dependencies
